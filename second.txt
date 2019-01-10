@@ -1,1 +1,3 @@
 My 2nd file added
+
+<head>This is some HTML code</head>
