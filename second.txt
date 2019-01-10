@@ -1,5 +1,2 @@
 My 2nd file added
-
 <head>This is some HTML code</head>
-
-adding a line so I can remove it later and see red in the log history
